@@ -1,6 +1,8 @@
 # omnistack9-front-end
 Semana Omnistack 9.0 da Rockatseat
 
+![1](https://user-images.githubusercontent.com/50602816/68897234-d6eb4900-070b-11ea-881d-3977997936e3.gif)
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
